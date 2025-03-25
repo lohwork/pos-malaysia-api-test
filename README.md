@@ -12,4 +12,6 @@ This repository contains a Postman collection for testing Pos Malaysia's API.
 3. Verify the responses.
 
 ## Author:
-- Evelyn Loh
+Evelyn Loh
+lohwork@yahoo.com
+  
